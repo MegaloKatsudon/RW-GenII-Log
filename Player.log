@@ -1,0 +1,1836 @@
+Mono path[0] = 'D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Steam Games/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   
+    VRAM:     3977 MB
+    Driver:   31.0.15.3699
+Begin MonoManager ReloadAssembly
+- Completed reload, in 10.274 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.617300 ms
+Command line arguments: -savedatafolder=C:\Users\ASUS-VIVO\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimWorld 1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Save data folder overridden to C:\Users\ASUS-VIVO\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+This took 12310.8018 ms (12 seconds) to filter all defs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A39BF1D440.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A39C293080.dll
+Prepatcher: Starting... (vanilla load took 33.86643s) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Game processing took 447.7946ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Serializing patched assemblies 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Serializing took 1467.3685ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Setting refonly 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Prepatcher: Loading patched assemblies 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B6C2C040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1F6F020.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B78E7040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1F74430.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1F83040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1F90C50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1F93C60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1F9E670.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A22AA030.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1FD0C80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2012E90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2034CA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2038EB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A205C2C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1B83040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A205E4D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A20628E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2064EF0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2074700.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A207BD10.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A207EF20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2083F30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2089D40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A208DF50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A20B6360.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1E5F030.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A20ED970.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A20F1580.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2108D90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A212F9A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A21317B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2132DC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A21343D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2143DE0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7B13040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A214DBF0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A22AB640.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A22F9C50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2328C70.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2348280.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A234BC90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A23A74A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2150800.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2152010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A242CEB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24550C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A245DAD0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24650E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2469100.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2482310.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A248C720.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24A6930.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24A8740.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24ABD50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24AF960.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24B8170.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24B9F80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24BC590.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A24D0BA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A251AFB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A251C7C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25215D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3544130E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2522BE0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2541BF0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948AEE50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2557000.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A255CE10.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A255EA20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7C21040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2560E30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2562840.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2571860.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A257BE80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A257FA90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3544170F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25B42A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25C1AB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25CD0D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25D0AE0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25DE700.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A25F8D10.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2601320.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A260DB30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2613340.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2614F50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2618360.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A261D970.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2715D80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948AB220.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A271D990.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27245A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27281B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2747070.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2757FD0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27649E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27693F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2797000.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2798C10.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A279A420.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27A2440.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27A5450.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27AFE60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27B4470.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27E2490.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27F38A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27F76B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A27FBEC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28154D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28216E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A282A300.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1B411E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2853120.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A288B530.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28A2740.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28C0150.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3543FB080.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F00080.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28C1B60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F11890.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28C4770.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F374A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F3C4B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28C7180.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F458C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F46ED0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F5A010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F5B620.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28CBBA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F61C40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F69250.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F75660.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F7FE70.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F83280.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A28CD5B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948A75F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F8F490.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F90EA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F998B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F9C4C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7F9DAD0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FBE8E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FC4D00.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FC6910.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FE6720.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948B1670.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FEA940.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FF0F50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FF2D60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B7FF8F70.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8008190.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8012BA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B80149B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B80221D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B802A7F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8030400.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A354A70820.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8033810.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8035C20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B803CE30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B803EC40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8058250.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8078C60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8097270.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B809DE80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B80B4290.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B80B74A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B80BC2B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B80C14C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A354A6D1F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B813A6D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948B2A80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B813C2E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8180010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B818B220.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B818DC30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81C6650.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81D6660.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81E0C80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81E2890.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81E4EA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81EA2B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81EBEC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81EF4D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81F20E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81FA6F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B81FDD00.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8214B10.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B821BB20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1B4F250.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A1B51260.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8247330.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8249940.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8256750.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B825BD60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A35441B100.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2749880.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A354A71A30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8266B70.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948A9E10.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8268180.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B826AB90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3948B3E90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B826DBA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A354A69BC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82749B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B827D7C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82801D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82843E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8289E00.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B828C810.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8290630.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8292C40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B829A850.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B829E0C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82BCC70.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82BE880.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82C7A90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82C90A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82CEEB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82D1AC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82D50D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82F92E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8336CF0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8339700.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8342110.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8345120.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8348530.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8386B50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B82A08E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8390160.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83A8570.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83B3D80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A354A6ADD0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83BCD90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83C3FA0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83CCFB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83CE7C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8ED8040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83D81E0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83DBE00.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83E1010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83E2820.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B83EA430.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8403A40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B840A850.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8413260.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8428870.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8437A80.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B843AA90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84504A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84772B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B847CEC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A2738010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84C00D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84C3AE0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3A274C090.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84C94F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84CC300.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84D7510.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84D9720.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84E9930.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84EF140.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84F2F50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84F5370.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84F7180.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B84FB7A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85243B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3543FF090.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85267C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85293D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85361F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B853A000.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8544010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8545A20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B855C430.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8560E40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B856E850.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8575660.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8578E70.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8580080.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8581A90.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85834A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85B62B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B829CCB0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85BAEC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B85BF6D0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8605010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8607620.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8614A30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8626450.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8638860.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8640470.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8647080.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86504A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B865D0B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B868E8C0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86A4ED0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86A7EE0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86AA4F0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86AFF00.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86B6710.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86DEB20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B86E6930.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8703F40.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B870A150.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B871A560.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B871F770.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8732380.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B8735390.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B873C9A0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B875D1B0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B876EBC0.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A35E5E6230.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B87B5010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B87C3C20.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B87D3A30.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B87D7040.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3B87DA850.dll
+Prepatcher: Done loading 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Command line arguments: -savedatafolder=C:\Users\ASUS-VIVO\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimWorld 1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Save data folder overridden to C:\Users\ASUS-VIVO\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+This took 2556.7343 ms (2 seconds) to filter all defs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3BE6D6960.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3BF77E140.dll
+Prepatcher: Restarted with the patched assembly, going silent. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VBE] RimThemes detected, activating compatibility... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VBE] Unpatching RimThemes background patch... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] version 11.0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] early-initializing AllowTool 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+1.5.8928 :: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Adjustable Temperature Events :: Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VanillaAchievementsExpanded] version 1.4.9034 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Running HarmonyPatches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+1.0.8871 :: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Medieval Overhaul v1.5.0.3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimThemes NX 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3C22B5010.dll
+DubsMintMenus v1.3.1086 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Analyzer] Mod Pass It Through The Window! has packaged the base-game Rimworld assemblies 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Analyzer] ========================================================================== 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Analyzer]                          Analyzer Running In Debug Mode                   
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Analyzer] ========================================================================== 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type TimeAssignmentDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+FactionCustomizer is successfully initialized! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[1.3]Graphics Setter - Loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ModContentPack.LoadPatches does not matches the reference. Skipping transpiler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to register patch for PawnGroupMakerUtility.TryGetRandomFactionForCombatPawnGroup! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to register patch for QuestScriptDef.CanRun! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to register patch for IncidentWorker_PawnsArrive.FactionCanBeGroupSource! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to register patch for ResearchManager.FinishProject! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to register patch for IncidentWorker_PawnsArrive.CanFireNowSub! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to register patch for StorytellerComp.UsableIncidentsInCategory! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Attempting to Process 6 Patches! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Successfully patched RimWorld.PawnGroupMakerUtility.TryGetRandomFactionForCombatPawnGroup(Single, Faction&, Predicate`1, Boolean, Boolean, Boolean, Boolean) with DIgnoranceIsBliss.Patch_TryGetRandomFactionForCombatPawnGroup_Prefix.Prefix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Successfully patched RimWorld.QuestScriptDef.CanRun(Slate) with DIgnoranceIsBliss.Core_Patches.Patch_CanRun_Prefix.Prefix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Successfully patched RimWorld.IncidentWorker_PawnsArrive.FactionCanBeGroupSource(Faction, Map, Boolean) with DIgnoranceIsBliss.Core_Patches.Patch_FactionCanBeGroupSource_Postfix.Postfix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Successfully patched RimWorld.ResearchManager.FinishProject(ResearchProjectDef, Boolean, Pawn, Boolean) with DIgnoranceIsBliss.Core_Patches.Patch_FinishProject_Postfix.Postfix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Successfully patched RimWorld.IncidentWorker_PawnsArrive.CanFireNowSub(IncidentParms) with DIgnoranceIsBliss.Core_Patches.Patch_PawnsArriveCanFireNowSub_Postfix.Postfix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Successfully patched RimWorld.StorytellerComp.UsableIncidentsInCategory(IncidentCategoryDef, Func`2) with DIgnoranceIsBliss.Core_Patches.Patch_UsableIncidentsInCategory_Postfix.Postfix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Ignorance Is Bliss] Completed 6 Patches with 6/6 successful patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Interaction Bubbles v3.1] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loading Medieval Overhaul Patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Hello, world!
+Build date: 11/5/2024 6:55 PM
+Loaded assemblies (11):
+0BetterFloatMenu, Version=15.0.0.0, Culture=neutral, PublicKeyToken=null,
+0ColourPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AMRetextureSupport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+Meta.Numerics, Version=3.1.0.0, Culture=neutral, PublicKeyToken=67d25c65a6631347,
+ModRequestAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+ModRequestAPI.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+Unity.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=null,
+zAnimationMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.FacialAnimationPatch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+zz.AM.PerformanceOptimizerPatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.TacticowlPatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Scanning 384 mods for animation data... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Found 1 mod folders with animation data, total 69 loadable files. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> [<color=#63e0ff>Facial Animation Patch</color>] Successfully loaded Facial Animation patch. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> <color=#ffa8fc>[Perf.Opt]</color> Loaded Performance Optimizer patch! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> <color=#ffa8fc>[Perf.Opt]</color> Successfully patched and disabled buggy optimizations. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Initialized Tacticowl patch (currently not active) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Peer Pressure v0.2.0.0] Mod initialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#00FF7F>[Positive Connections]</color>v1.5.5 dai mas fraagey 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+QualityBuilder successfully patched Replace Stuff 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimSaves NX 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Romance Tweaks loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CM_Semi_Random_Research] - patching to conditionally hide stop research button at instruction. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RimHUD v1.15.3] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[WhatsMissing] Patched Dialog_BillConfig 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded What's That Mod. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Yayo's Animation] - Giddy-up! detected 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3E4974010.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3E3E3B030.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3E498CA50.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3E4999A60.dll
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A3E49A1270.dll
+GAGARIN: <color=green>StartUpStarted called!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4297:12/2/2024 12:00:00 AM:1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Altered Carbon 2: ReSleeved] version 6.0.2-Sov-rev1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ReGrowth: Core] version 3.6-Mundi-rev7 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ReGrowth: ReTextures] version 1.2-Clapham-rev4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ReBuild: Doors and Corners] version 1.2-Miller-rev3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ReSplice: Core] version 1.0.1-Shelley-rev5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>6.846</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=True</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Loadeding XmlDocument</color> took <color=red>1.113408 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Loaded from cache!</color> Loading cache took <color=red>2 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.073</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.003</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML format error: List item found with name that is not <li>, and which does not have a custom XML loader method, in <operations><Operation Class="PatchOperationAddModExtension"><xpath>Defs/PawnKindDef[defName="BMT_Pteranodon" or defName="BMT_Quetzal"]
+					</xpath><value><li Class="GiddyUp.CustomStats"><speedModifier>0.9</speedModifier><armorModifier>1.2</armorModifier></li></value></Operation><Operation Class="PatchOperationAddModExtension"><xpath>Defs/ThingDef[defName="BMT_Pteranodon"]</xpath><value><li Class="GiddyUp.DrawingOffset"><northOffset>0,0,0</northOffset><southOffset>0,0,0</southOffset><eastOffset>0,-1,-0.3</eastOffset><westOffset>0,-1,-0.3</westOffset></li></value></Operation><Operation Class="PatchOperationAddModExtension"><xpath>Defs/ThingDef[defName="BMT_Quetzal"]</xpath><value><li Class="GiddyUp.DrawingOffset"><northOffset>0,0,0.4</northOffset><southOffset>0,0,0.6</southOffset><eastOffset>0.3,-1,0.8</eastOffset><westOffset>-0.3,-1,0.8</westOffset></li></value></Operation></operations> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML format error: List item found with name that is not <li>, and which does not have a custom XML loader method, in <operations><Operation Class="PatchOperationAddModExtension"><xpath>Defs/PawnKindDef[defName="BMT_Pteranodon" or defName="BMT_Quetzal"]
+					</xpath><value><li Class="GiddyUp.CustomStats"><speedModifier>0.9</speedModifier><armorModifier>1.2</armorModifier></li></value></Operation><Operation Class="PatchOperationAddModExtension"><xpath>Defs/ThingDef[defName="BMT_Pteranodon"]</xpath><value><li Class="GiddyUp.DrawingOffset"><northOffset>0,0,0</northOffset><southOffset>0,0,0</southOffset><eastOffset>0,-1,-0.3</eastOffset><westOffset>0,-1,-0.3</westOffset></li></value></Operation><Operation Class="PatchOperationAddModExtension"><xpath>Defs/ThingDef[defName="BMT_Quetzal"]</xpath><value><li Class="GiddyUp.DrawingOffset"><northOffset>0,0,0.4</northOffset><southOffset>0,0,0.6</southOffset><eastOffset>0.3,-1,0.8</eastOffset><westOffset>-0.3,-1,0.8</westOffset></li></value></Operation></operations> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML format error: List item found with name that is not <li>, and which does not have a custom XML loader method, in <operations><Operation Class="PatchOperationAddModExtension"><xpath>Defs/PawnKindDef[defName="BMT_Pteranodon" or defName="BMT_Quetzal"]
+					</xpath><value><li Class="GiddyUp.CustomStats"><speedModifier>0.9</speedModifier><armorModifier>1.2</armorModifier></li></value></Operation><Operation Class="PatchOperationAddModExtension"><xpath>Defs/ThingDef[defName="BMT_Pteranodon"]</xpath><value><li Class="GiddyUp.DrawingOffset"><northOffset>0,0,0</northOffset><southOffset>0,0,0</southOffset><eastOffset>0,-1,-0.3</eastOffset><westOffset>0,-1,-0.3</westOffset></li></value></Operation><Operation Class="PatchOperationAddModExtension"><xpath>Defs/ThingDef[defName="BMT_Quetzal"]</xpath><value><li Class="GiddyUp.DrawingOffset"><northOffset>0,0,0.4</northOffset><southOffset>0,0,0.6</southOffset><eastOffset>0.3,-1,0.8</eastOffset><westOffset>-0.3,-1,0.8</westOffset></li></value></Operation></operations> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>0.055</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.004</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML Verse.ResearchProjectDef defines the same field twice: prerequisites.
+
+Field contents: Esoteric_Studies.
+
+Whole XML:
+
+<ResearchProjectDef><defName>DankPyon_Alchemy</defName><label>alchemy</label><description>WIP. research to get advanced research table</description><baseCost>1000</baseCost><tab>DankPyon_MedievalResearchTab</tab><techLevel>Medieval</techLevel><researchViewX>7</researchViewX><researchViewY>6.6</researchViewY><hiddenPrerequisites><li>DankPyon_RusticFurniture</li></hiddenPrerequisites><generalRules><rulesStrings><li>subject-&gt;alchemy</li></rulesStrings></generalRules><prerequisites><li>VFET_Culture</li></prerequisites><prerequisites><li>Esoteric_Studies</li></prerequisites></ResearchProjectDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] DankPyon_Alchemy:Medieval Overhaul\1.5\Defs\ResearchProjectDefs\ResearchProjects_Misc.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML Verse.ResearchProjectDef defines the same field twice: prerequisites.
+
+Field contents: VBY_PrimitiveProduction.
+
+Whole XML:
+
+<ResearchProjectDef><defName>MF_BasicFurniture</defName><label>basic furniture</label><tab>VanillaExpanded</tab><description>Build simple furniture like simple beds, basic tables, stools, benches and more.</description><baseCost>300</baseCost><techLevel>Neolithic</techLevel><tags><li>ClassicStart</li></tags><researchViewX>0.00</researchViewX><researchViewY>1.40</researchViewY><generalRules><rulesStrings><li>subject-&gt;foundations of comfort</li><li>subject_story-&gt;rediscovered ancient techniques for crafting durable, essential furniture</li><li>subject_story-&gt;pioneered the use of local materials to create comfortable living spaces</li><li>subject_story-&gt;taught the community the value of crafting with nature, not against it</li><li>subject_story-&gt;initiated the tradition of communal gatherings around the hearth and table</li><li>subject_gerund-&gt;establishing the basics of homely comfort and utility</li></rulesStrings></generalRules><prerequisites><li>VFET_Culture</li></prerequisites><prerequisites><li>VBY_PrimitiveProduction</li></prerequisites></ResearchProjectDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] MF_BasicFurniture:Vanilla Furniture Expanded\1.5\Defs\ResearchDefs\ResearchProjects.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML Verse.ResearchProjectDef defines the same field twice: prerequisites.
+
+Field contents: VBY_PrimitiveProduction.
+
+Whole XML:
+
+<ResearchProjectDef><defName>VFE_Res_Pottery</defName><label>pottery</label><description>Learn how to create beautiful vases and other vessels from simple materials.</description><baseCost>500</baseCost><tab>VanillaExpanded</tab><techLevel>Neolithic</techLevel><researchViewX>0.00</researchViewX><researchViewY>5.15</researchViewY><generalRules><rulesStrings><li>subject-&gt;the clay canvas</li><li>subject_story-&gt;rediscovered ancient techniques for shaping clay into vessels of beauty and utility</li><li>subject_story-&gt;elevated simple materials to art, capturing the essence of culture in each curve and color</li><li>subject_gerund-&gt;molding the earth's bounty into forms of lasting legacy</li></rulesStrings></generalRules><prerequisites><li>VFET_Culture</li></prerequisites><prerequisites><li>VBY_PrimitiveProduction</li></prerequisites></ResearchProjectDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] VFE_Res_Pottery:Vanilla Furniture Expanded - Art\1.5\Defs\ResearchProjectDefs\ResearchProjects_VFE.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] BMT_Boomasaur:Biomes! Prehistoric\1.5\Defs\Animals\BMT_Boomasaur.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list from XML: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 66266B50]
+ at Verse.DirectXmlCrossRefLoader+WantedRefForList`1[T].AddWantedListEntry (System.String newTargetDefName, System.String mayRequireMod, System.String mayRequireAnyMod) [0x000b2] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.DirectXmlCrossRefLoader.RegisterListWantsCrossRef[T] (System.Collections.Generic.List`1[T] wanterList, System.String targetDefName, System.Object debugWanterInfo, System.String mayRequireMod, System.String mayRequireAnyMod) [0x00043] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at XmlExtensions.CustomXmlLoader.ListFromXml[T] (System.Xml.XmlNode listRootNode, System.Xml.XmlNode fullRoot, System.String nameOfDef) [0x000ac] in <658cfe511108420e84a1aee91a591e04>:0 
+XML:
+<linkableFacilities><li>BOR_ToolCabinet_III</li><li>BOR_ToolCabinet_II</li><li>BOR_ToolCabinet_I</li><li>ToolCabinet</li><li MayRequireAnyOf="Aoba.Fortress.Industrial.Citadel,Aoba.Fortress.Industrial.Citadel_steam">FT_transformer</li><li>VBY_PrimitiveToolBench</li></linkableFacilities> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] FT_TableLathe:Fortifications - Industrial\1.5\Defs\FT_Production.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list from XML: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 66266B50] Duplicate stacktrace, see ref for original
+XML:
+<linkableFacilities><li>BOR_ToolCabinet_III</li><li>BOR_ToolCabinet_II</li><li>BOR_ToolCabinet_I</li><li>ToolCabinet</li><li MayRequireAnyOf="Aoba.Fortress.Industrial.Citadel,Aoba.Fortress.Industrial.Citadel_steam">FT_transformer</li><li>VBY_PrimitiveToolBench</li></linkableFacilities> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] FT_TableChemistry:Fortifications - Industrial\1.5\Defs\FT_Production.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list from XML: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 66266B50] Duplicate stacktrace, see ref for original
+XML:
+<linkableFacilities><li>BOR_ToolCabinet_III</li><li>BOR_ToolCabinet_II</li><li>BOR_ToolCabinet_I</li><li>ToolCabinet</li><li MayRequireAnyOf="Aoba.Fortress.Industrial.Citadel,Aoba.Fortress.Industrial.Citadel_steam">FT_transformer</li><li>VBY_PrimitiveToolBench</li></linkableFacilities> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] FT_TableConcreteMixer:Fortifications - Industrial\1.5\Defs\FT_Production.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML Verse.ResearchProjectDef defines the same field twice: prerequisites.
+
+Field contents: VBE_Writing.
+
+Whole XML:
+
+<ResearchProjectDef><defName>Esoteric_Studies</defName><label>esoteric studies</label><description>Beginning studies of the occult, magical, and the supernatural. Unlocks advanced research table.</description><baseCost>500</baseCost><tab>DankPyon_MedievalResearchTab</tab><techLevel>Medieval</techLevel><researchViewX>5.00</researchViewX><researchViewY>6.6</researchViewY><prerequisites><li>VFET_Culture</li></prerequisites><prerequisites><li>VBE_Writing</li></prerequisites></ResearchProjectDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Esoteric_Studies:Medieval Overhaul Patches\1.5\Defs\ResearchProjectDefs\ResearchProjects.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.FactionDef defines the same field twice: permanentEnemy.
+
+Field contents: true.
+
+Whole XML:
+
+<FactionDef><defName>BOR_SolarRepublic</defName><label>Solar Empire of Sigma</label><description>Having overcome their difficult Industrial years, the guiding hand of the Archoseed Sigma has driven the once simple tribe to the building blocks of an ultratech ecumenopolis.</description><pawnSingular>solarite</pawnSingular><pawnsPlural>solarites</pawnsPlural><listOrderPriority>42</listOrderPriority><canMakeRandomly>true</canMakeRandomly><canSiege>true</canSiege><leaderTitle>solar chancellor</leaderTitle><factionIconPath>BOR/Things/Factions/SolariteIcon</factionIconPath><factionNameMaker>NamerSolarFaction</factionNameMaker><settlementNameMaker>NamerSolarBase</settlementNameMaker><settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath><techLevel>Ultra</techLevel><backstoryFilters><li><categories><li>Offworld</li></categories><commonality>0.75</commonality></li></backstoryFilters><allowedCultures><li>BOR_Solarite_Culture</li></allowedCultures><requiredMemes><li MayRequire="Ludeon.RimWorld.Ideology">Loyalist</li><li MayRequire="Ludeon.RimWorld.Ideology">Collectivist</li><li MayRequire="Ludeon.RimWorld.Ideology">HumanPrimacy</li><li MayRequire="Ludeon.RimWorld.Ideology">Structure_Ideological</li></requiredMemes><xenotypeSet><xenotypeChances><BOR_Solarite MayRequire="Ludeon.RimWorld.Biotech">0.8</BOR_Solarite></xenotypeChances></xenotypeSet><maxPawnCostPerTotalPointsCurve><points><li>(1500, 75)</li><li>(5000, 125)</li><li>(7000, 250)</li><li>(9000, 350)</li><li>(11000, 450)</li><li>(180000, 3000)</li></points></maxPawnCostPerTotalPointsCurve><apparelStuffFilter><thingDefs><li>BOR_Sunweave</li><li>BOR_Sunsteel</li></thingDefs></apparelStuffFilter><pawnGroupMakers Inherit="False"><li><commonality>100</commonality><kindDef>Combat</kindDef><options><BOR_Solarite_Guardsman>4</BOR_Solarite_Guardsman><BOR_Solarite_Marine>2</BOR_Solarite_Marine><BOR_Solarite_Marksman>2</BOR_Solarite_Marksman><BOR_Solarite_Officer>1</BOR_Solarite_Officer></options></li><li><kindDef>Peaceful</kindDef><options><BOR_Citizen>20</BOR_Citizen><BOR_Solarite_Guardsman>3</BOR_Solarite_Guardsman><BOR_Solarite_Officer>1</BOR_Solarite_Officer></options></li><li><kindDef>Trader</kindDef><traders><BOR_Town_Trader>1</BOR_Town_Trader></traders><carriers><Muffalo>6</Muffalo><Dromedary>5</Dromedary><Alpaca>2</Alpaca><Elephant>1</Elephant></carriers><guards><BOR_Citizen>5</BOR_Citizen><BOR_Solarite_Officer>1</BOR_Solarite_Officer><BOR_Solarite_Marine>2</BOR_Solarite_Marine><BOR_Solarite_Guardsman>3</BOR_Solarite_Guardsman></guards></li><li><kindDef>Settlement</kindDef><options><BOR_Solarite_Marksman>1</BOR_Solarite_Marksman><BOR_Solarite_Marine>3</BOR_Solarite_Marine><BOR_Solarite_Guardsman>5</BOR_Solarite_Guardsman><BOR_Solarite_Officer>1</BOR_Solarite_Officer></options></li><li MayRequire="Ludeon.RimWorld.Ideology"><kindDef>Miners</kindDef><commonality>1</commonality><options><BOR_Miner>3</BOR_Miner><BOR_Solarite_Officer>1</BOR_Solarite_Officer><BOR_Solarite_Guardsman>3</BOR_Solarite_Guardsman></options></li><li MayRequire="Ludeon.RimWorld.Ideology"><kindDef>Hunters</kindDef><commonality>1</commonality><options><BOR_Solarite_Officer>1</BOR_Solarite_Officer><BOR_Solarite_Guardsman>3</BOR_Solarite_Guardsman></options></li><li MayRequire="Ludeon.RimWorld.Ideology"><kindDef>Loggers</kindDef><commonality>1</commonality><options><BOR_Logger>3</BOR_Logger><BOR_Solarite_Officer>1</BOR_Solarite_Officer><BOR_Solarite_Guardsman>3</BOR_Solarite_Guardsman></options></li><li MayRequire="Ludeon.RimWorld.Ideology"><kindDef>Farmers</kindDef><commonality>1</commonality><options><BOR_Farmer>3</BOR_Farmer><BOR_Solarite_Officer>1</BOR_Solarite_Officer><BOR_Solarite_Guardsman>3</BOR_Solarite_Guardsman></options></li></pawnGroupMakers><baseTraderKinds><li>BOR_Base_I</li></baseTraderKinds><caravanTraderKinds><li>BOR_Caravan_I</li></caravanTraderKinds><autoFlee>false</autoFlee><permanentEnemy>false</permanentEnemy><canStageAttacks>true</canStageAttacks><settlementGenerationWeight>1</settlementGenerationWeight><requiredCountAtGameStart>0</requiredCountAtGameStart><disallowedMemes><li MayRequire="Ludeon.RimWorld.Ideology">Nudism</li><li MayRequire="Ludeon.RimWorld.Ideology">Blindsight</li><li MayRequire="Ludeon.RimWorld.Ideology">TreeConnection</li></disallowedMemes><disallowedPrecepts><li MayRequire="Ludeon.RimWorld.Ideology">Nudity_Male_CoveringAnythingButGroinDisapproved</li><li MayRequire="Ludeon.RimWorld.Ideology">Nudity_Female_CoveringAnythingButGroinDisapproved</li><li MayRequire="Ludeon.RimWorld.Ideology">AnimalVenerated</li><li MayRequire="Ludeon.RimWorld.Ideology">NobleDespisedWeapons</li><li MayRequire="Ludeon.RimWorld.Ideology">ApparelDesired_Strong_Subordinate</li><li MayRequire="Ludeon.RimWorld.Ideology">ApparelDesired_Soft_Subordinate</li><li MayRequire="Ludeon.RimWorld.Ideology">DrugUse_Prohibited</li></disallowedPrecepts><raidLootValueFromPointsCurve><points><li>(35, 150)</li><li>(100, 1200)</li><li>(1000, 5000)</li><li>(2000, 8000)</li><li>(4000, 10000)</li></points></raidLootValueFromPointsCurve><allowedArrivalTemperatureRange><min>-50</min><max>50</max></allowedArrivalTemperatureRange><raidLootMaker>BOR_LootMaker_I</raidLootMaker><maxConfigurableAtWorldCreation>0</maxConfigurableAtWorldCreation><visitorTraderKinds><li>BOR_Visitor_I</li></visitorTraderKinds><displayInFactionSelection>false</displayInFactionSelection><fixedName>Solar Empire of Sigma</fixedName><permanentEnemy>true</permanentEnemy></FactionDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] BOR_SolarRepublic:Beyond Our Reach\Common\Defs\FactionDefs\FactionDef_Solarite.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list from XML: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 66266B50] Duplicate stacktrace, see ref for original
+XML:
+<linkableFacilities><li>BOR_ToolCabinet_III</li><li>BOR_ToolCabinet_II</li><li>BOR_ToolCabinet_I</li><li>ToolCabinet</li><li MayRequireAnyOf="Aoba.Fortress.Industrial.Citadel,Aoba.Fortress.Industrial.Citadel_steam">FT_transformer</li><li>VBY_PrimitiveToolBench</li></linkableFacilities> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] FT_ArcFurnace:Fortification Industrial - Citadel\1.5\Defs\Things\FTC_Production.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception loading list from XML: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 66266B50] Duplicate stacktrace, see ref for original
+XML:
+<linkableFacilities><li>BOR_ToolCabinet_III</li><li>BOR_ToolCabinet_II</li><li>BOR_ToolCabinet_I</li><li>ToolCabinet</li><li MayRequireAnyOf="Aoba.Fortress.Industrial.Citadel,Aoba.Fortress.Industrial.Citadel_steam">FT_transformer</li><li>VBY_PrimitiveToolBench</li></linkableFacilities> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] FT_HeavyChem:Fortification Industrial - Citadel\1.5\Defs\Things\FTC_Production.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML Verse.ResearchProjectDef defines the same field twice: prerequisites.
+
+Field contents: Esoteric_Studies.
+
+Whole XML:
+
+<ResearchProjectDef><defName>RF_ArcaneCrafting</defName><label>arcane crafting</label><tab>DankPyon_MedievalResearchTab</tab><description>Creation of powerful equipment using magic infused gemstones.</description><baseCost>600</baseCost><techLevel>Medieval</techLevel><researchViewX>6.00</researchViewX><researchViewY>6.10</researchViewY><prerequisites><li>VFET_Culture</li></prerequisites><prerequisites><li>Esoteric_Studies</li></prerequisites></ResearchProjectDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RF_ArcaneCrafting:RimFantasy: Medieval Overhaul Edition\1.5\Defs\ResearchProjectDefs\RF_ResearchProjects_ArcaneCrafting.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>17.038</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod bambaryla.bor has multiple Verse.RecipeDefs named BOR_Forge_IV_ArchoGarbageA. Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod bambaryla.bor has multiple Verse.RecipeDefs named BOR_Forge_IV_ArchoGarbageB. Skipping. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Shot_QuantumBlaster
+          Blaster found to give to Verse.VerbProperties VerbProperties(quantum rifle) (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Melee_Punch_HitBuilding found to give to Verse.RaceProperties Verse.RaceProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Bear_Polar (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Bear_Polar (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Hyena (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Wolf_Timber (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Wolf_Arctic (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Direwolf (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Cougar (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Panther (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Bear_Grizzly (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Bear_Polar (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Rox (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Thrumbo (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Daer (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Human (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Wolf_Timber (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Direwolf (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Hyena (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Hyena (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Direwolf (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Leather_Direwolf (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Wolf_Timber (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Wolf_Arctic (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Wolf_Arctic (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Bear_Grizzly (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named DankPyon_Hide_Bear_Grizzly (wanter=thingDefs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=17773 width=256 height=510 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17773 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=17807 width=256 height=510 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17807 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=17833 width=256 height=510 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17833 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=17835 width=256 height=510 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17835 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=17837 width=256 height=510 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17837 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=30929 width=30 height=30 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=30929 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=30933 width=30 height=30 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=30933 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=30935 width=30 height=30 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=30935 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=35787 width=23 height=61 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=35787 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=35805 width=127 height=127 mips=8 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=35805 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=53475 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=53475 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=53493 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=53493 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=55473 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=55473 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=55475 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=55475 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.019</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Biomes! Core v2.6.2.0] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TBnRE: thingDef named VFEV_Mead was not found. Were defs changed somehow? (Not an error, probably, just special rules). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TBnRE: thingDef named VFEM_Wine was not found. Were defs changed somehow? (Not an error, probably, just special rules). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TBnRE: thingDef named Chemshine was not found. Were defs changed somehow? (Not an error, probably, just special rules). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TBnRE: ResearchProjectDef named VBE_LiquorBrewing was not found. Were defs changed somehow? (Not an error, probably, just special rules). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TBnRE: ResearchProjectDef named VBE_MixologyResearch was not found. Were defs changed somehow? (Not an error, probably, just special rules). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TBnRE: ResearchProjectDef named AC_CorticalCrafting was not found. Were defs changed somehow? (Not an error, probably, just special rules). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+startIndex: 18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+endIndex: 25 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Start: newobj System.Void System.Text.StringBuilder::.ctor()
+End:callvirt virtual System.String System.Object::ToString() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Start: stloc.1 NULL
+End:br.s Label4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.019</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 148 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Steam Games/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001A6426D3040.dll
+[Cherry Picker] The database was processed in 00.54795 seconds and the following defs were removed: 
+ - ScenarioDef/Crashlanded, 
+ - ScenarioDef/Tutorial, 
+ - ScenarioDef/LostTribe, 
+ - ScenarioDef/TheRichExplorer, 
+ - ScenarioDef/NakedBrutality, 
+ - ScenarioDef/Mechanitor, 
+ - ScenarioDef/Sanguophage, 
+ - ScenarioDef/TheAnomaly, 
+ - ScenarioDef/VFEC_NewEmpire, 
+ - ScenarioDef/VREA_NewUtopia, 
+ - ScenarioDef/VFEE_NewFamily, 
+ - ScenarioDef/VFE_TheLoneScavenger, 
+ - ScenarioDef/DankPyon_LoneWolfStart, 
+ - ScenarioDef/DankPyon_MercenaryStart, 
+ - ScenarioDef/DankPyon_TavernOwnerStart, 
+ - ScenarioDef/DankPyon_RoxKnightStart, 
+ - QuestScriptDef/AncientComplex_Standard, 
+ - QuestScriptDef/OpportunitySite_AncientComplex, 
+ - QuestScriptDef/AncientComplex_Mission, 
+ - QuestScriptDef/AncientSignalActivation, 
+ - QuestScriptDef/DankPyon_OpportunitySite_MediumRuin, 
+ - QuestScriptDef/DankPyon_OpportunitySite_SmallRuin, 
+ - QuestScriptDef/DankPyon_OpportunitySite_Snake_BigRuin, 
+ - QuestScriptDef/VFE_OpportunitySite_AbandonedFactory, 
+ - QuestScriptDef/VFE_OpportunitySite_BroadcastingStation, 
+ - QuestScriptDef/VFE_OpportunitySite_MechanoidShipLanding, 
+ - QuestScriptDef/VFE_OpportunitySite_MechanoidStoragePickup, 
+ - QuestScriptDef/VFE_OpportunitySite_MechanoidAttackParty, 
+ - XenotypeDef/Dirtmole, 
+ - XenotypeDef/Genie, 
+ - XenotypeDef/VREA_AndroidAwakened, 
+ - XenotypeDef/VREA_AndroidBasic, 
+ - XenotypeDef/Yttakin, 
+ - XenotypeDef/Waster, 
+ - XenotypeDef/Impid, 
+ - XenotypeDef/Pigskin, 
+ - XenotypeDef/VRE_Archon, 
+ - XenotypeDef/Sanguophage, 
+ - XenotypeDef/Hussar, 
+ - XenotypeDef/Highmate, 
+ - XenotypeDef/ArchoGenes_Archinite, 
+ - XenotypeDef/BOR_Kwazaari, 
+ - XenotypeDef/BOR_Solarite, 
+ - XenotypeDef/EF_Elders, 
+ - ScenarioDef/VFET_WildMen, 
+ - ScenarioDef/FTC_LostFortress, 
+ - ThingDef/VFEArch_HedgeWall 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Medieval Overhaul contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Factions Expanded - Classical contains 9 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Fortification Industrial - Citadel contains 4 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Base Generation Expanded contains 21 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MVCF] Activating Tacticowl compatibility... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[WhatsMissing] Patched Dialog_BillConfig 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Altered Carbon] Activated mod compat for vanillaexpanded.skills, VanillaExpanded.VanillaAspirationsExpanded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] Initialized 6 SettingsMenuDef(s) and found 15 unused key(s) from 3 mod(s) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[XML Extensions] 0 total patches run in 0ms, 0 failed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Arcane Technology: Simple sidearms running, attempting to patch 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Arcane Technology: Simple sidearms patched 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<-- Processor Framework Warnings --> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Medieval Overhaul: ThingDef 'DankPyon_RawhideRack' has processes with no product or no ingredient filter. These fields are required. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Medieval Overhaul: ThingDef 'DankPyon_TanningRack' has processes with no product or no ingredient filter. These fields are required. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ArchotechWeaponry] Done intialization 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Patching Madeline.ModMismatchWindow 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TrueTerrainColors v1.12.17] Loaded cached true colors for 1246 terrain defs from file. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Biomes! Prehistoric v1.2.0.0] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+@@@ GenerateAnimals_Test_Transpiler matched=True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+@@@TargetMethodInfo: workerType=RimWorld.PawnGroupKindWorker_Normal, method=GeneratePawns 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+@@@ target=RimWorld.PawnGroupKindWorker_Normal.GeneratePawns index=91 HIT!!! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Drug overdoseの最終ステージのインデックス=2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on go-juice, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Luciferium, tendable=False, comp[0].type=Verse.HediffComp_HealPermanentWounds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on flake, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on psychite tea, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on yayo, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on wake-up, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on battle elixir, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on happy powder, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on hornet honey, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Paregoric, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on vigor pill, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Ephedra high, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on opium, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Sunlite blessed, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on trot, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on wide-a-wake, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on canter, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on sleepquitin, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Sunlight blessed, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on adreamoline, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Crewmates blessed, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE High on gallop, tendable=False, comp[0].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[0].type=Verse.HediffComp_Effecter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CR_MESSAGE Alcohol, tendable=False, comp[1].type=Verse.HediffComp_SeverityPerDay 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+==Compressed Raid.DrugDataStore_DataRestore DebugMessage START== 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+適用可能なドラッグリスト件数:34 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Canter(BOR_Canter), permenent=False, category=Hard, weight=7751.75, hediffs=High on canter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Gallop(BOR_Gallop), permenent=False, category=Hard, weight=7751.75, hediffs=High on gallop 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Luciferium(Luciferium), permenent=True, category=Medical, weight=8175, hediffs=Luciferium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Trot(BOR_Trot), permenent=False, category=Hard, weight=10352.5, hediffs=High on trot 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Hornet honey(DankPyon_HornetHoney), permenent=False, category=Hard, weight=11000, hediffs=High on hornet honey 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Go-juice(GoJuice), permenent=False, category=Hard, weight=12125, hediffs=High on go-juice 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Battle elixir(DankPyon_BattleElixir), permenent=False, category=Hard, weight=12125, hediffs=High on battle elixir 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Crewmates(BOR_Crewmates), permenent=False, category=Social, weight=14350.2, hediffs=Crewmates blessed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Opium(VFEC_Opium), permenent=False, category=Hard, weight=15000, hediffs=High on opium 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Sunlight(BOR_Sunlight), permenent=False, category=Social, weight=15300, hediffs=Sunlight blessed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Sunlite(BOR_Sunlite), permenent=False, category=Social, weight=16100, hediffs=Sunlite blessed 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Yayo(Yayo), permenent=False, category=Hard, weight=16900, hediffs=High on yayo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Happy powder(DankPyon_HappyPowder), permenent=False, category=Hard, weight=16900, hediffs=High on happy powder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Flake(Flake), permenent=False, category=Hard, weight=17500, hediffs=High on flake 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Paregoric(DankPyon_Paregoric), permenent=False, category=Medical, weight=18750, hediffs=Paregoric 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Adreamoline(BOR_Adreamoline), permenent=False, category=Hard, weight=18781.25, hediffs=High on adreamoline 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Wide-a-wake(BOR_WideAWake), permenent=False, category=Hard, weight=19025, hediffs=High on wide-a-wake 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Sleepquitin(BOR_Sleepquitin), permenent=False, category=Hard, weight=19187.5, hediffs=High on sleepquitin 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Wake-up(WakeUp), permenent=False, category=Hard, weight=19350, hediffs=High on wake-up 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Vigor pill(DankPyon_VigorPill), permenent=False, category=Hard, weight=19350, hediffs=High on vigor pill 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Roxberry stout(DankPyon_RoxberryStout), permenent=False, category=Social, weight=19362.5, hediffs=Alcohol,Drank roxberry stout 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Psychite tea(PsychiteTea), permenent=False, category=Social, weight=19500, hediffs=High on psychite tea 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Eggnog(Eggnog), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Beer(Beer), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Suspicious rum(AM_CorpseRumBasic), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Ice wine(DankPyon_Wine_Ice), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Griffon wine(DankPyon_Wine_Griffon), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Mulberry wine(DankPyon_Wine_Mulberry), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Wine(DankPyon_Wine), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Mead(DankPyon_Mead), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Cider(DankPyon_Cider), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Ale(DankPyon_Ale), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Fine rum(AM_CorpseRumFine), permenent=False, category=Social, weight=19550, hediffs=Alcohol 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+drug=Ephedra leaves(BMT_EphedraLeaves), permenent=False, category=Social, weight=19750, hediffs=Ephedra high 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+==Compressed Raid.DrugDataStore_DataRestore DebugMessage END  == 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config Applied Check - Loaded to menu with config version:  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+(Declare Victory) Transpiler replaced 12 instructions in GameEndTick starting at index=25 and ending at index=37. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Dynamic Diplomacy] DD loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Biomes Map after Init: 3 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#b48af5>[IAintBuildingThat]</color> Making all Verse.TerrainDefs hideable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#b48af5>[IAintBuildingThat]</color> Making all Verse.ThingDefs hideable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Integrated Creep Joiners] No creep romance mods detected. Patching creep romance. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Keep On Linking Activated 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Map Designer for 1.4] Initializing....  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Map Designer] Finding biomes... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Map Designer] Applying settings 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Map Designer] Terrain settings: Default 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+pawn.education : patched DoListingItems, loaded settings 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking WorkGiver_DoBill.StartOrResumeBillJob for other harmony patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+could not find original method through ReflectedType or TypeByName(WorkGiver_DoBill), continuing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking Pawn_JobTracker.TryFindAndStartJob for other harmony patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+could not find original method through ReflectedType or TypeByName(Pawn_JobTracker), continuing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking Pawn.TickRare for other harmony patches 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+TKS_PriorityTreatment: Patching finished 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Compatibility-Patch for MintMenu architect is active. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Compatibility-Patch for MintMenu research is active. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Allow patch: RIMMSqol:ActiveTip_TipRect[TipWindowMaxWidth]
+Allow patch: RIMMSqol:Alert_Active[HiddenAlerts]
+Allow patch: RIMMSqol:ArchitectButtonFix[ArchitectButtonVisibility]
+Allow patch: RIMMSqol:CompPowerTrader_PowerOn[PowerTraderZero]
+Allow patch: RIMMSqol:CompPowerTrader_ResetPowerVars[PowerTraderZero]
+Allow patch: RIMMSqol:CompPowerTrader_ReceiveCompSignal[PowerTraderZero]
+Allow patch: RIMMSqol:CompPowerTrader_PostSpawnSetup[PowerTraderZero]
+Allow patch: RIMMSqol:CompBreakdownable_Notify_Repaired[PowerTraderZero]
+Allow patch: RIMMSqol:DefMapSaveStateFixRecordDef[DefMap]
+Allow patch: RIMMSqol:DefMapSaveStateFixWorkTypeDef[DefMap]
+Allow patch: RIMMSqol:Designator_Dropdown_ProcessInput[DesignatorDropdown]
+Allow patch: RIMMSqol:ArchitectCategoryTab_DesignationTabOnGUI[DesignatorDropdown]
+Allow patch: RIMMSqol:Designator_Place_DoExtraGuiControls[RIMMSQoL.HideRotationControls]
+Allow patch: RIMMSqol:ExpectationsUtility_CurrentExpectationFor[PawnValueExpectations]
+Allow patch: RIMMSqol:FloatMenuDecorations_Designator_Dropdown_ProcessInput[FloatMenuDecorations]
+Allow patch: RIMMSqol:FloatMenuDecorations_Designator_Build_ProcessInput[FloatMenuDecorations]
+Allow patch: RIMMSqol:GlobalControlsUtility_DoDate[GlobalControls]
+Allow patch: RIMMSqol:LetterStack_ReceiveLetter[HiddenAlerts]
+Allow patch: RIMMSqol:XmlInheritance_Resolve
+Allow patch: RIMMSqol:MainButtonsRoot_MainButtonsOnGUI[RIMMSQoL.KeyBindings]
+Allow patch: RIMMSqol:MainTabWindow_Research_DrawRightRect[ResearchTabDrawer]
+Allow patch: RIMMSqol:MainTabWindow_Research_PostOpen[ResearchTabDrawer]
+Allow patch: RIMMSqol:Messages_AcceptsMessage[HiddenAlerts]
+Allow patch: RIMMSqol:PawnGraphicSet_ResolveAllGraphics[RIMMSQoL.PawnPackRendering]
+Allow patch: RIMMSqol:PanwRenderer_DrawEquipmentAiming[PawnApparelRendering]
+Allow patch: RIMMSqol:PlaySettings_DoPlaySettingsGlobalControls[GlobalControls]
+Allow patch: RIMMSqol:PreventAnimalFamilies_Pawn_RelationsTracker_AddDirectRelation[PreventAnimalFamilies]
+Allow patch: RIMMSqol:PreventAnimalFamilies_TaleRecorder_RecordTale[PreventAnimalFamilies]
+Allow patch: RIMMSqol:PreventTamenessDecay_Pawn_TrainingTracker_TrainingTrackerTickRare[StopTamenessDecay]
+Allow patch: RIMMSqol:ReplaceNumericTextboxesInt[NumericTextboxes]
+Allow patch: RIMMSqol:ReplaceNumericTextboxesFloat[NumericTextboxes]
+Allow patch: RIMMSqol:RoofCollapseUtility_WithinRangeOfRoofHolder[RoofCollapse]
+Allow patch: RIMMSqol:RoofCollapseCellsFinder_CheckCollapseFlyingRoofs_1[RoofCollapse]
+Allow patch: RIMMSqol:RoofCollapseCellsFinder_CheckCollapseFlyingRoofs_2[RoofCollapse]
+Allow patch: RIMMSqol:SnowUtility_MovementTicksAddOn[SnowUtilityMovementTicksAddOn]
+Allow patch: RIMMSqol:SpawnRemnantColony[RemnantColony]
+Allow patch: RIMMSqol:DisplayConfirmationDialog[RemnantColony]
+Allow patch: RIMMSqol:Text_ClampTextWithEllipsis[NumericTextboxes]
+Allow patch: RIMMSqol:ThingFilter_SetAllow_StuffCategoryDef[ThingFilterBugfix]
+Allow patch: RIMMSqol:ThingForbiddenPredicatesFix[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood1[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood2[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood3[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextFood4[ForbidByContext]
+Allow patch: RIMMSqol:ThinkResultContextRecover[ForbidByContext]
+Allow patch: RIMMSqol:TrackLevelUp[TrackLevelUp]
+Allow patch: RIMMSqol:StopSkillDecay[StopSkillDecay]
+Allow patch: RIMMSqol:SkillRecord_LearningSaturatedToday[StopSkillDecay]
+Allow patch: RIMMSqol:SkillUI_GetSkillDescription[StopSkillDecay]
+Allow patch: RIMMSqol:WorkGiver_DoBill_TryFindBestBillIngredientsInSet_AllowMix[DoBillIngredientOverflow]
+Allow patch: RIMMSqol.translations:LanguageChangeListener[LanguageChangeListener]
+Allow patch: RIMMSqol.storyteller:MapDeiniter_Deinit[Storyteller]
+Allow patch: RIMMSqol.storyteller:Storyteller_StorytellerTick[Storyteller]
+Allow patch: RIMMSqol.remnantcolony:Dialog_FormCaravan_Notify_ChoseRoute[City]
+Allow patch: RIMMSqol.remnantcolony:Dialog_FormCaravan_Get_CurrentTile[City]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_WorldPawnGCTick[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_RunGC[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_LogDotgraph[WorldPawnGC]
+Allow patch: RIMMSqol.performance.worldpawngc:WorldPawnGC_PawnGCDebugResults[WorldPawnGC]
+Allow patch: RIMMSqol.performance.pawn_rotationtracker:Pawn_RotationTracker_Face[PawnRotation]
+Allow patch: RIMMSqol.performance.pawn_rotationtracker:Pawn_RotationTracker_FaceCell[PawnRotation]
+Allow patch: RIMMSqol.pathfinding:PathfindingFix[Pathfinding]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Mortar as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Foam turret as its projectile does not cause damage to health 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Ancient graser turret as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Trebuchet as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Artillery as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Searchlight as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Catapult as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of EMP cannon as its projectile does not cause damage to health 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Infantry mortar as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Hexagonal mortar launcher as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Howitzer as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Field cannon as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Light field cannon as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Heavy field cannon as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Orbital bombardment uplink as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Auto tesla turret as its projectile does not cause damage to health 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Coastal battery as its projectile does not cause damage to health 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RelevantStatsInDescription]: Skipping dps-calculation of Multi-rail rocket launcher as it has no default projectile defined 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Fixing kitchen room role worker, thanks slippycheeze! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Moved 73 lights to the Lights tab. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing DoorTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing ResearchTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing KitchenTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing StorageTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing DecorationTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing HospitalTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing BedroomTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Removing TableChairsTab since its empty now. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TabSorting]: Found 201 icons in ArchitectIcons to choose from. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[katana.scenarioamender] Loaded 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Patched: 10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Uncapped Besties Loaded! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Patched lower relation bound from -100 to -10000 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Patched upper relation bound from 100 to 10000 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Lovin MTB patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Lovin MTB patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>StartUpFinished called!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Found landform data in the following mods: Geological Landforms, Biome Transitions 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Loaded 45 landforms of which 0 are edited and 0 are custom. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not allocate memory: System out of memory!
+Trying to allocate: 715827884B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 33008B | peak: 0B | reserved: 5111808B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 53477376B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 772302976B | peak: 0B | reserved: 799358976B 
+[ ALLOC_GFX ] used: 1454128835B | peak: 0B | reserved: 1483935744B 
+[ ALLOC_CACHEOBJECTS ] used: 228931784B | peak: 0B | reserved: 245366784B 
+[ ALLOC_TYPETREE ] used: 102640B | peak: 0B | reserved: 4194304B 
+Could not allocate memory: System out of memory!
+Trying to allocate: 715827884B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 33008B | peak: 0B | reserved: 5111808B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 53477376B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 772302976B | peak: 0B | reserved: 799358976B 
+[ ALLOC_GFX ] used: 1454128835B | peak: 0B | reserved: 1483935744B 
+[ ALLOC_CACHEOBJECTS ] used: 228931784B | peak: 0B | reserved: 245366784B 
+[ ALLOC_TYPETREE ] used: 102640B | peak: 0B | reserved: 4194304B 
+ 
+(Filename:  Line: 1507)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Steam Games\steamapps\common\RimWorld;D:\Steam Games\steamapps\common\RimWorld;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'ASUS-VIVO'
+OS-Version: 10.0.0
+D:\Steam Games\steamapps\common\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF762AB0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF8BA630000), size: 2191360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF8B8F00000), size: 802816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF8B7930000), size: 3903488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+D:\Steam Games\steamapps\common\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FF855530000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\System32\USER32.dll:USER32.dll (00007FF8B84F0000), size: 1761280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\win32u.dll:win32u.dll (00007FF8B8320000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4460
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF8B8E10000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4036
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF8B7E00000), size: 1159168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF8B7D60000), size: 630784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3374
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF8B7F20000), size: 1118208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3593
+C:\Windows\System32\ole32.dll:ole32.dll (00007FF8B9100000), size: 1724416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3958
+C:\Windows\System32\combase.dll:combase.dll (00007FF8B9550000), size: 3731456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF8BA450000), size: 1130496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4249
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF8ADB40000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF8B9B70000), size: 385024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF8B8E40000), size: 684032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22621.2506
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF8B8720000), size: 4669440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF8B8350000), size: 729088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\sechost.dll:sechost.dll (00007FF8B93E0000), size: 684032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF8B82F0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FF8B9BD0000), size: 8871936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4460
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF8B9020000), size: 880640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FF8B8410000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3374
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF8B8180000), size: 1466368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF8B16E0000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF848E70000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF8BA570000), size: 462848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FF8B6140000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF8B3170000), size: 1269760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF87B910000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FF8B5010000), size: 225280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF8B6A20000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3958
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF8B8040000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4317
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF8B4780000), size: 724992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\shcore.dll:shcore.dll (00007FF8B92C0000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF8B5830000), size: 9449472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FF8B56F0000), size: 1306624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FF8B7860000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+D:\Steam Games\steamapps\common\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF85BD80000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FF8B92B0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FF8B6410000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FF8B8BB0000), size: 1441792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FF8AFBA0000), size: 2453504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FF8B4A20000), size: 1011712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4036
+C:\Windows\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FF8AEE90000), size: 299008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\DriverStore\FileRepository\nvamsi.inf_amd64_0ddb3a2ca58ff0e7\nvldumdx.dll:nvldumdx.dll (00007FF883E40000), size: 770048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3699
+C:\Windows\SYSTEM32\msasn1.dll:msasn1.dll (00007FF8B75D0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FF8ADB00000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FF8AD990000), size: 1449984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\devobj.dll:devobj.dll (00007FF8B7640000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (00007FF8B75F0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\wldp.dll:wldp.dll (00007FF8B71E0000), size: 299008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4036
+C:\Windows\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FF8B70A0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\System32\wintrust.dll:wintrust.dll (00007FF8B7CF0000), size: 442368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FF8B98E0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF8B7130000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FF8B6980000), size: 217088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4249
+C:\Windows\System32\DriverStore\FileRepository\nvamsi.inf_amd64_0ddb3a2ca58ff0e7\nvwgf2umx.dll:nvwgf2umx.dll (00007FF860730000), size: 99467264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3699
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FF883910000), size: 2949120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.28.0.417
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF8B6B30000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\System32\DriverStore\FileRepository\nvamsi.inf_amd64_0ddb3a2ca58ff0e7\Display.NvContainer\MessageBus.dll:MessageBus.dll (00007FF890C00000), size: 7565312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.22.2758.1620
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FF8B9AC0000), size: 720896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF8AC190000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF8AC110000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\System32\NSI.dll:NSI.dll (00007FF8B8450000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FF8B2F30000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF8A84A0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FF8A8020000), size: 1015808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FF8A79C0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3527
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FF8B6F40000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3527
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24090.11-0\MpOav.dll:MpOav.dll (00007FF8A7930000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.24090.11
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FF8ABBC0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4111
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FF8A4CD0000), size: 2019328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FF8B53B0000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3527
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FF8B6780000), size: 315392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3958
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FF8B6760000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_52a470027931adab\igd10iumd64.dll:igd10iumd64.dll (00007FF8AA6E0000), size: 4046848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.1999
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (00007FF8B1480000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_52a470027931adab\igd10um64xe.DLL:igd10um64xe.DLL (00007FF8A94A0000), size: 18747392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.1999
+C:\Windows\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FF8B72D0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4317
+C:\Windows\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FF8B7290000), size: 225280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\ControlLib.dll:ControlLib.dll (00007FF8A9460000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.88.0
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_52a470027931adab\IntelControlLib.dll:IntelControlLib.dll (00007FF8A8B90000), size: 409600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.88.0
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_52a470027931adab\igdgmm64.dll:igdgmm64.dll (00007FF8A8780000), size: 4235264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.1999
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_52a470027931adab\igc64.dll:igc64.dll (00007FF89FAC0000), size: 73859072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.1999
+C:\Windows\SYSTEM32\dcomp.dll:dcomp.dll (00007FF8B0630000), size: 2445312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4249
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF8B4BE0000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FF8A7AD0000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+D:\Steam Games\steamapps\common\RimWorld\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FF8A7660000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.91.21.57
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FF83D710000), size: 23834624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FF86E6D0000), size: 753664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FF8B6E90000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF8B67F0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FF86E530000), size: 1683456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF8B6C80000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FF86C740000), size: 1671168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\Windows\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FF853E90000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\winmmbase.dll:winmmbase.dll (00007FF8A4190000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\SYSTEM32\imaadp32.acm:imaadp32.acm (00007FF8B1820000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\msadp32.acm:msadp32.acm (00007FF8B16B0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\msg711.acm:msg711.acm (00007FF8AAFE0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\SYSTEM32\msgsm32.acm:msgsm32.acm (00007FF8AAFD0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FF8AAF70000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
+C:\Windows\SYSTEM32\ac3acm.acm:ac3acm.acm (0000000180000000), size: 278528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.2.0.0
+C:\Windows\SYSTEM32\l3codecp.acm:l3codecp.acm (00007FF882E70000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.4.0.0
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF8B4C10000), size: 2301952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3593
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FF8563042BB (UnityPlayer) UnityMain
+0x00007FF856303DCA (UnityPlayer) UnityMain
+0x00007FF855ABF202 (UnityPlayer) UnityMain
+0x00007FF855ABD0CE (UnityPlayer) UnityMain
+0x00007FF855ABCCD3 (UnityPlayer) UnityMain
+0x00007FF855BC4491 (UnityPlayer) UnityMain
+0x00007FF855EB9097 (UnityPlayer) UnityMain
+0x000001A40E0B89D9 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Texture2D:Compress (UnityEngine.Texture2D,bool)
+0x000001A5A72775BB (Mono JIT Code) Verse.StaticTextureAtlas:Bake (bool)
+0x000001A5A727617B (Mono JIT Code) Verse.GlobalTextureAtlasManager:<BakeStaticAtlases>g__FlushBatch|7_0 (Verse.TextureAtlasGroupKey,Verse.GlobalTextureAtlasManager/<>c__DisplayClass7_0&)
+0x000001A5A727550B (Mono JIT Code) Verse.GlobalTextureAtlasManager:BakeStaticAtlases ()
+0x000001A492CCC643 (Mono JIT Code) Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_4 ()
+0x000001A3BA1632FC (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x000001A3BA163923 (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x000001A3B90B2FB3 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x000001A3C0A08293 (Mono JIT Code) (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.Update_Patch1 (Verse.Root)
+0x000001A3B90B1D7B (Mono JIT Code) Verse.Root_Entry:Update ()
+0x000001A3B90A55A0 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FF85BEAE270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FF85BE32AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FF85BE3BB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FF855E0606D (UnityPlayer) UnityMain
+0x00007FF855E03443 (UnityPlayer) UnityMain
+0x00007FF855DEC603 (UnityPlayer) UnityMain
+0x00007FF855DEC6BD (UnityPlayer) UnityMain
+0x00007FF855B78110 (UnityPlayer) UnityMain
+0x00007FF855CC63C7 (UnityPlayer) UnityMain
+0x00007FF855CC6463 (UnityPlayer) UnityMain
+0x00007FF855CC88BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF855A7751E)
+0x00007FF855A7751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF855A7627A)
+0x00007FF855A7627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF855A7A32C)
+0x00007FF855A7A32C (UnityPlayer) (function-name not available)
+0x00007FF855A7DE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF762AB11F2)
+0x00007FF762AB11F2 (RimWorldWin64) (function-name not available)
+0x00007FF8B8F1259D (KERNEL32) BaseThreadInitThunk
+0x00007FF8BA68AF38 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/ASUS-V~1/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
